@@ -4,7 +4,7 @@ MAINTAINER Michele Dolfi <dolfim@phys.ethz.ch>
 
 
 ENV HOME /root
-ENV PARALLEL_BUILD 6
+ENV PARALLEL_BUILD 1
 
 RUN apt-get update
 
